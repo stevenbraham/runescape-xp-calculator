@@ -30,3 +30,11 @@ XP required: 378 XP
 You need to train 38 times
 This will cost you 76 gp
 ```
+
+# Other versions
+
+This project has been prorted to
+* [Java](https://github.com/stevenbraham/runescape-xp-calculator-java)
+* [PHP](https://github.com/stevenbraham/runescape-xp-calculator-php)
+* [Python](https://github.com/stevenbraham/runescape-xp-calculator-python)
+* [Node JS](https://github.com/stevenbraham/runescape-xp-calculator-nodejs)
