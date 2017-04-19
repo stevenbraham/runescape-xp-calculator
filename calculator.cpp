@@ -53,8 +53,19 @@ int main() {
     }
 
     //calculate current level based on xp
-    
     int currentLevel =   xpToLevel(currentXp);
+
+    //calculate xp and actions needed to achieve requested level
+    int neededXp = levelToXp(requestedLevel);
+    double xpDiffernce = neededXp - currentXp;
+    int actionsNeeded = ceil(xpDiffernce / xpPerAction);
+
+    //print results
+    cout << "Current level: " << currentLevel << " = " << currentXp<<" XP\n";
+    cout << "Requested level: " << requestedLevel << " = " << neededXp << " XP\n";
+    cout << "XP required: " << xpDiffernce << " XP\n";
+    cout << "You need to train " << actionsNeeded << " times\n";
+    cout << "This will cost you "<<actionsNeeded*costsPerAction<<" gp\n\n";
     return 0;
 }
 
