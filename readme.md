@@ -1,4 +1,4 @@
-#About
+# About
 
 This is a small program that I developed in 2014. This program can calculate how long it will take to reach a certain level in the online game [Runescape](http://www.runescape.com/community).
 
