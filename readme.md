@@ -33,7 +33,7 @@ This will cost you 76 gp
 
 # Other versions
 
-This project has been prorted to
+This project has been ported to
 * [Java](https://github.com/stevenbraham/runescape-xp-calculator-java)
 * [PHP](https://github.com/stevenbraham/runescape-xp-calculator-php)
 * [Python](https://github.com/stevenbraham/runescape-xp-calculator-python)
