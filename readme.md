@@ -35,3 +35,4 @@ This will cost you 76 gp
 
 This project has been ported to
 * [Java](https://github.com/stevenbraham/runescape-xp-calculator-java)
+* [GO](https://github.com/stevenbraham/runescape-xp-calculator-go)
